@@ -36,7 +36,10 @@
     * *Functions*: Methods to fetch hospital keys and format proofs for Stellar transactions.
 * **`vitalzk-mobile-vault`**:  
     * *Purpose*: Local-first Rust storage for users to sign and generate proofs on-device.
-
+* **`vitalzk-circuits`**:  
+    * *Purpose*:ZK circuits.
+* **`vitalzk-docs`**:  
+    * *Purpose*: documentation.
 ---
 
 #### **5. TECHNICAL STACK** * **Layer 1:** Stellar Blockchain (Protocol 25).  
