@@ -1,5 +1,4 @@
 **VITALZK: DECENTRALIZED MEDICAL CREDENTIALING PROTOCOL**
-**Technical Specification and Architecture Design**
 
 ---
 
